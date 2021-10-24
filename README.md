@@ -1,4 +1,3 @@
 # appi
-Appimania
-v0.0.5
+Appimania Public Releases Repository
 
